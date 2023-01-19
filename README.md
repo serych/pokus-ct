@@ -1,4 +1,4 @@
-# pokus
+# pokus Čtvrtek
 První reopozitář
 
 ## Seznam
